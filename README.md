@@ -162,4 +162,4 @@ MIT License
 ## 📬 Contact
 - **Author:** Madushan Rajendran
 - **Email:** madushanrajendran@gmail.com
-- **GitHub:** [YOUR_GITHUB_USERNAME](https://github.com/MadushanR)
+- **GitHub:** https://github.com/MadushanR
